@@ -167,3 +167,6 @@ module.exports = new GraphQLSchema({
 
 //GraphQL Reference [CRUD]
 //https://css-tricks.com/lets-create-our-own-authentication-api-with-nodejs-and-graphql/
+
+//Authorization and Authentication
+//https://github.com/Brijeshpant/graphql-with-node-js
