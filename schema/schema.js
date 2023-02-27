@@ -164,3 +164,6 @@ module.exports = new GraphQLSchema({
     query: RootQuery,
     mutation:Mutation
 })
+
+//GraphQL Reference [CRUD]
+//https://css-tricks.com/lets-create-our-own-authentication-api-with-nodejs-and-graphql/
